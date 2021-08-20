@@ -1,0 +1,11 @@
+opencv-python
+pandas
+requests
+scikit-learn
+matplotlib
+plotly
+scipy
+trax
+spacy
+nltk
+
